@@ -15,12 +15,11 @@ a quick start and a few architecture diagrams, and links to deeper docs.
 | [atlas-tracker](https://github.com/JoshSimerman/atlas-tracker) | A deliberately small, four-table task ledger for agents. Bad input is refused, never silently dropped. | Python, SQLite, stdlib HTTP |
 | [ai-newsletter](https://github.com/JoshSimerman/ai-newsletter) | Sift: a daily AI news digest. Parallel Claude Code agents do the research, and a deterministic renderer and scripted gates decide what gets published. | Node.js, Cloudflare Pages, D1 |
 
-#### Reliability and data
+#### Reliability
 
 | Project | What it is | Stack |
 |---|---|---|
 | [honest-watchdogs](https://github.com/JoshSimerman/honest-watchdogs) | Monitoring tools that prove they can fire: positive controls for launchd and systemd watchers, mount probes, guarded mirrors and alert delivery. | Python, macOS, Linux |
-| [regime-engine](https://github.com/JoshSimerman/regime-engine) | A Bitcoin market-cycle classifier: on-chain data harvesting, pillar scoring and a hysteresis state machine. It ships example thresholds only. | Python, PostgreSQL |
 
 #### Apps and setup
 
