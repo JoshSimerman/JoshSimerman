@@ -1,7 +1,7 @@
 ### Josh Simerman
 
 I build tooling around AI coding agents: engines that run them safely, ledgers that keep their work
-honest, and monitoring that proves it can fire. Most of my work is Python on Linux, with some
+honest, and monitoring that proves it can fire. Most of my work is C# on windows, Python on Linux, and 
 TypeScript on Cloudflare.
 
 The repositories below are v1 snapshots exported from private repositories. Each README opens with
